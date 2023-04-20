@@ -10,7 +10,7 @@ public class VariableEx {
         PrintHello printHello; //변수 선언
         printHello = new PrintHello(); //new를 이용해 인스턴스화 및 초기화
 
-        System.out.println(iVal); //
+        System.out.println(iVal);
         printHello.print();
     }
 }
